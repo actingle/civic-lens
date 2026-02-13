@@ -216,6 +216,10 @@ body.dark-mode article{
   }
 }
 
+@media (prefers-reduced-motion: reduce){
+  transition: none;
+}
+
 body.light-mode{
   background-color: var(--watchdog-white);
   color: var(--truth-text);
