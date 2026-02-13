@@ -211,7 +211,6 @@ body.dark-mode{
 
 body.dark-mode article{
   background-color: var(--truth-text);
-
   body.dark-mode h3, body.dark-mode p, body.dark-mode label, body.dark-mode a{
     color: var(--watchdog-white);
   }
